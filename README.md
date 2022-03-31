@@ -73,7 +73,10 @@ Application of artificial intelligence in farming and farm management provides e
 
 
 ## How to run
-    Download the APK from github
+    Download the APK from drive
+    
+   https://drive.google.com/drive/folders/1Ezxwqe_C0QjBLswlZv1czZ3_glTKy9pm?usp=sharing
+    
     Download the image for the card
    
    ![AR CARD](https://user-images.githubusercontent.com/72274851/161099538-8509a88e-c70c-4cdf-8b0d-f34f38931904.jpg)
