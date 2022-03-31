@@ -5,8 +5,11 @@ According to the UN, Nearly 1/2 of all fruit & vegetables produced globally are 
 
 ## Google Services Used
 ![GoogleCloud](https://i.pcmag.com/imagery/reviews/02yVL9f8Jw1atwoG6sgFZDH-7.fit_scale.size_760x427.v1569482492.jpg)
+
 App Engine- We used App Engine for Deployment of our project.App Engine is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, and then let App Engine take care of provisioning servers and scaling your app instances based on demand.We deployed our python Flask App on Google Cloud which will enable us to scape up easily according to our needs.
+
 ![AppEngine](https://habrastorage.org/webt/4m/mp/dz/4mmpdzaun1lqnfbqlluwok_kiie.jpeg)
+
 Google Maps API- We used Google Maps API for the map feature of our app.Google Maps API is a set of application programming interfaces that lets us talk to its services. It will allow us to build simple apps to very sophisticated location-based apps for Web, iOS, and Android.It allowed us to easily integrate map in our project.It is very much easy to deploy than other alternatives such as MapBox.
 ![GoogleMaps](https://www.howtogeek.com/wp-content/uploads/2021/01/google-maps-satellite.png?height=200p&trim=2,2,2,2)
 ## What the Card Does
