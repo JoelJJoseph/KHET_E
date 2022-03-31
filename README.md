@@ -14,6 +14,17 @@ According to the UN, Nearly 1/2 of all fruit & vegetables produced globally are 
 
     Open the App scan the card.
     
+    
+  ## What the Card Does
+	The card for Augmented Reality-
+  When the AR card is scanned, the user is directed to any one of the of four symbols that represent valued services:
+	The webpage of Khet E.
+	Crop Recommendation, Fertilizer Recommendation, and Disease Prediction are all included in this module.
+	The bot for WhatsApp.
+	The locust tracker is a map that shows where the locusts are.
+
+![AR](https://user-images.githubusercontent.com/72274851/160909229-e2e9dde3-ea9f-4152-a93d-5ebe1bcb7172.gif)
+
 
 ## Google Services Used
 ![GoogleCloud](https://i.pcmag.com/imagery/reviews/02yVL9f8Jw1atwoG6sgFZDH-7.fit_scale.size_760x427.v1569482492.jpg)
@@ -24,15 +35,6 @@ App Engine- We used App Engine for Deployment of our project.App Engine is a ful
 
 Google Maps API- We used Google Maps API for the map feature of our app.Google Maps API is a set of application programming interfaces that lets us talk to its services. It will allow us to build simple apps to very sophisticated location-based apps for Web, iOS, and Android.It allowed us to easily integrate map in our project.It is very much easy to deploy than other alternatives such as MapBox.
 ![GoogleMaps](https://www.howtogeek.com/wp-content/uploads/2021/01/google-maps-satellite.png?height=200p&trim=2,2,2,2)
-## What the Card Does
-	The card for Augmented Reality-
-  When the AR card is scanned, the user is directed to any one of the of four symbols that represent valued services:
-	The webpage of Khet E.
-	Crop Recommendation, Fertilizer Recommendation, and Disease Prediction are all included in this module.
-	The bot for WhatsApp.
-	The locust tracker is a map that shows where the locusts are.
-
-![AR](https://user-images.githubusercontent.com/72274851/160909229-e2e9dde3-ea9f-4152-a93d-5ebe1bcb7172.gif)
 
 
 Machine learning is one of the emerging technologies in Artificial intelligence that provides the ability to learn, infer, recorrect, and relearn from the experience gained. The robustness of Machine learning and Deep learning can be highly utilized in any domain especially for agriculture related production system. The accuracy and the strength of these algorithms helps the farmers to take appropriate decisions and supportive actions. 
