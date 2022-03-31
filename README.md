@@ -26,21 +26,21 @@ Google Maps API- We used Google Maps API for the map feature of our app.Google M
 Machine learning is one of the emerging technologies in Artificial intelligence that provides the ability to learn, infer, recorrect, and relearn from the experience gained. The robustness of Machine learning and Deep learning can be highly utilized in any domain especially for agriculture related production system. The accuracy and the strength of these algorithms helps the farmers to take appropriate decisions and supportive actions. 
 The work has concentrated on vital part of the agriculture that has a drastic impact on farming and farmers. This paper presents a detailed explanation on five categories. They are :
 
-## (a) crop yield prediction to increase the nourishment of the crops using Machine learning algorithm that checks the nutrients of the crops, soil fertility,provides suggestions to grow crops depending on the geographic location and the amount of rainfall received, 
+## (A) Crop Yield prediction to increase the nourishment of the crops using Machine learning algorithm that checks the nutrients of the crops, soil fertility,provides suggestions to grow crops depending on the geographic location and the amount of rainfall received, 
 ![crop](https://user-images.githubusercontent.com/72274851/160910645-674b7e3c-781e-48b3-be67-5f124b4c561a.gif)
 
-## (b) fertilizer recommendation with respect to the species and crop recommendation, 
+## (B) Fertilizer recommendation with respect to the species and crop recommendation, 
 ![fertilizer](https://user-images.githubusercontent.com/72274851/160910684-408d3e09-f9c0-4eeb-a627-101e63828afb.gif)
 
-## (c) disease prediction in crops and livestock 
+## (C) disease prediction in crops and livestock 
 
 ![disease](https://user-images.githubusercontent.com/72274851/160911023-903dc312-91ca-466b-9e2e-b7f7d3d06f4e.gif)
 
 
-## (d) Locust attack prediction. 
+## (D) Locust attack prediction. 
 This function is incredibly useful and beneficial to farmers since it records the locusts' movements and notifies and directs them in the direction in which they are going, allowing farmers to securely maintain track of their harvests.
 
-## (e) and to have a B2C model sales and purchase support. 
+## (E) Our B2C model sales and purchase support. 
 ![b2c](https://user-images.githubusercontent.com/72274851/160911131-3b0f922d-c2f1-44ee-820c-cae64001aebf.gif)
 
 
