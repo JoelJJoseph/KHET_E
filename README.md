@@ -1,7 +1,7 @@
 # KHET-E
 
 ## Inspiration
-According to the UN, Nearly 1/2 of all fruit & vegetables produced globally are wasted each year. With decreasing energy and resources across the planet, **Khet-E** was made to promote better yield among farmers and better health among malnourished people and animals. Also, we know that it might be difficult for farmers to use websites, we have integrated the functionalities of this website in the form of a WhatsApp Bot as well in order to reach a greater target audience.
+According to the UN, Nearly 1/2 of all fruit & vegetables produced globally are wasted each year. With decreasing energy and resources across the planet, **Khet-E** is made to promote better yield among farmers and better health among malnourished people and animals. Also, we know that it might be difficult for farmers to use websites, we have integrated the functionalities of this website in the form of a WhatsApp Bot as well in order to reach a greater target audience.
 
 ## How to run
     Download the APK from drive
