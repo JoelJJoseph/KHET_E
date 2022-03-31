@@ -34,7 +34,8 @@ The work has concentrated on vital part of the agriculture that has a drastic im
 
 ## (C) disease prediction in crops and livestock 
 
-![disease](https://user-images.githubusercontent.com/72274851/160911023-903dc312-91ca-466b-9e2e-b7f7d3d06f4e.gif)
+![disease](https://user-images.githubusercontent.com/72274851/161100949-38d4b126-a440-459b-923f-48bd596431d7.gif)
+
 
 
 ## (D) Locust Attack Prediction. 
