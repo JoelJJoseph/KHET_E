@@ -3,6 +3,18 @@
 ## Inspiration
 According to the UN, Nearly 1/2 of all fruit & vegetables produced globally are wasted each year. With decreasing energy and resources across the planet, **Khet-E** was made to promote better yield among farmers and better health among malnourished people and animals. Also, we know that it might be difficult for farmers to use websites, we have integrated the functionalities of this website in the form of a WhatsApp Bot as well in order to reach a greater target audience.
 
+## How to run
+    Download the APK from drive
+    
+   https://drive.google.com/drive/folders/1Ezxwqe_C0QjBLswlZv1czZ3_glTKy9pm?usp=sharing
+    
+    Download the image for the card
+   
+   ![AR CARD](https://user-images.githubusercontent.com/72274851/161099538-8509a88e-c70c-4cdf-8b0d-f34f38931904.jpg)
+
+    Open the App scan the card.
+    
+
 ## Google Services Used
 ![GoogleCloud](https://i.pcmag.com/imagery/reviews/02yVL9f8Jw1atwoG6sgFZDH-7.fit_scale.size_760x427.v1569482492.jpg)
 
@@ -72,17 +84,7 @@ Application of artificial intelligence in farming and farm management provides e
 ✅ The Augmented Reality was build using Unity and Vuforia.
 
 
-## How to run
-    Download the APK from drive
-    
-   https://drive.google.com/drive/folders/1Ezxwqe_C0QjBLswlZv1czZ3_glTKy9pm?usp=sharing
-    
-    Download the image for the card
-   
-   ![AR CARD](https://user-images.githubusercontent.com/72274851/161099538-8509a88e-c70c-4cdf-8b0d-f34f38931904.jpg)
 
-    Open the App scan the card.
-    
     
 ## How to run indiviaully 
    Khet-e prediction
