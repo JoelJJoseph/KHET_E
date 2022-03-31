@@ -74,8 +74,9 @@ Application of artificial intelligence in farming and farm management provides e
 ## How to run
     Download the APK from github
     Download the image for the card
-   ![image](https://github.com/JoelJJoseph/KHET-E/blob/main/AR%20CARD.jpg)
    
+   ![AR CARD](https://user-images.githubusercontent.com/72274851/161099538-8509a88e-c70c-4cdf-8b0d-f34f38931904.jpg)
+
     Open the App scan the card.
     
     
