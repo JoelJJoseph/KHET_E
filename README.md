@@ -26,8 +26,7 @@ According to the UN, Nearly 1/2 of all fruit & vegetables produced globally are 
 ![AR](https://user-images.githubusercontent.com/72274851/160909229-e2e9dde3-ea9f-4152-a93d-5ebe1bcb7172.gif)
 
 
-## OUTPUT
-![image](https://github.com/JoelJJoseph/Google-solution-challenge-2022/assets/72274851/bb6a9055-34c6-4c5e-96c7-13cd57163115)
+
 
 
 
